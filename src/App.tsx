@@ -165,7 +165,7 @@ export default function App() {
                 />
               </div>
               <p className="font-body-lg text-body-lg text-on-surface-variant max-w-2xl mx-auto mt-space-xs leading-relaxed">
-                Danseuse pluridisciplinaire, Chorégraphe &amp; Professeur de Danse à Paris.
+                Danseuse pluridisciplinaire, Chorégraphe &amp; Professeure de Danse à Paris.
               </p>
 
               {/* CTA Buttons */}
@@ -244,7 +244,7 @@ export default function App() {
                     CHRISKDANSE
                   </h2>
                   <h3 className="font-headline-sm text-headline-sm text-on-surface tracking-wide">
-                    Danseuse pluridisciplinaire, Chorégraphe, Professeur de danse et Créatrice de Contenu
+                    Danseuse pluridisciplinaire, Chorégraphe, Professeure de danse et Créatrice de Contenu
                   </h3>
                   <div className="p-space-lg rounded-xl bg-surface-container-low/70 backdrop-blur-md shadow-lg space-y-space-md text-on-surface-variant font-body-lg text-body-lg leading-relaxed">
                     <p>
@@ -307,7 +307,7 @@ export default function App() {
                     <span className="material-symbols-outlined text-headline-md text-secondary">photo_camera</span>
                   </div>
                   <div className="mb-space-md">
-                    <span className="font-headline-lg text-headline-lg text-on-surface font-bold">94 Tsd.</span>
+                    <span className="font-headline-lg text-headline-lg text-on-surface font-bold">94 k</span>
                     <span className="block font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mt-1">
                       Followers sur Instagram
                     </span>
@@ -771,7 +771,7 @@ export default function App() {
                 />
               </div>
               <p className="font-body-md text-body-md text-on-surface-variant mt-space-xs">
-                Danseuse pluridisciplinaire, Chorégraphe &amp; Professeur de Danse à Paris.
+                Danseuse pluridisciplinaire, Chorégraphe &amp; Professeure de Danse à Paris.
               </p>
             </div>
 
